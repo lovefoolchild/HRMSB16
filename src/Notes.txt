@@ -1,0 +1,12 @@
+Class 1:
+After creating a Maven Project and added all the dependencies, now, we are going to write Gherkin test case
+in Cucumber Project.
+
+Note: Every single test case will be considered as one scenario.
+
+* We write scenario in feature file in Cucumber
+
+Creating features directory under resources to keep all feature files.
+
+How to create feature file?
+Right click - file - name of file - test.feature (.feature is the extension)
